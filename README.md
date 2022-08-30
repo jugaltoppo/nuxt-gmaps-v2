@@ -1,0 +1,1 @@
+# nuxt-gmaps-v2
